@@ -1,0 +1,160 @@
+{
+  "book_id": "beat-generation-maximalist-power-corruption",
+  "title": "The Bardo Ledger",
+  "tagline": "In the marketplace of the authentic, the only real currency is corruption.",
+  "target_words": 70000,
+  "actual_words": 71315,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Rebellion",
+    "The Aesthetics of Authenticity",
+    "Spiritual Bankruptcy as Business Model",
+    "The Archive as a Tool of Power"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Transaction",
+      "words": 2970
+    },
+    {
+      "ch": 2,
+      "title": "The Relic",
+      "words": 2970
+    },
+    {
+      "ch": 3,
+      "title": "The Pitch",
+      "words": 2970
+    },
+    {
+      "ch": 4,
+      "title": "The First Refusal",
+      "words": 2970
+    },
+    {
+      "ch": 5,
+      "title": "The Ghost's Terms",
+      "words": 2970
+    },
+    {
+      "ch": 6,
+      "title": "Mina's Cut",
+      "words": 2970
+    },
+    {
+      "ch": 7,
+      "title": "The Vault",
+      "words": 2970
+    },
+    {
+      "ch": 8,
+      "title": "A Forgery of Feeling",
+      "words": 2970
+    },
+    {
+      "ch": 9,
+      "title": "The Venetian's Collection",
+      "words": 2970
+    },
+    {
+      "ch": 10,
+      "title": "The Prophet's Invoice",
+      "words": 2970
+    },
+    {
+      "ch": 11,
+      "title": "Supply Chain",
+      "words": 2970
+    },
+    {
+      "ch": 12,
+      "title": "Debt",
+      "words": 2970
+    },
+    {
+      "ch": 13,
+      "title": "The Second Reel",
+      "words": 2970
+    },
+    {
+      "ch": 14,
+      "title": "Blood in the Margins",
+      "words": 2970
+    },
+    {
+      "ch": 15,
+      "title": "Silas Remembers",
+      "words": 2970
+    },
+    {
+      "ch": 16,
+      "title": "The Bardo Burns",
+      "words": 2970
+    },
+    {
+      "ch": 17,
+      "title": "Buying the Ashes",
+      "words": 2970
+    },
+    {
+      "ch": 18,
+      "title": "The New Mythology",
+      "words": 2970
+    },
+    {
+      "ch": 19,
+      "title": "Cassius, Incorporated",
+      "words": 2970
+    },
+    {
+      "ch": 20,
+      "title": "The Thing is Sold",
+      "words": 2970
+    },
+    {
+      "ch": 21,
+      "title": "The Empty Vault",
+      "words": 2970
+    },
+    {
+      "ch": 22,
+      "title": "The Last Performance",
+      "words": 2970
+    },
+    {
+      "ch": 23,
+      "title": "The Receipt",
+      "words": 2970
+    },
+    {
+      "ch": 24,
+      "title": "The Product",
+      "words": 2975
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'sacred' artifact of a counter-culture is a deliberate, lucrative forgery they helped create.",
+      "A rival 'curator' opens a club across from The Bardo, selling a more authentic, raw, and dangerous experience. Describe the first night.",
+      "Mina's origin story: how did she go from a true believer to the 'architect of acquisition'?",
+      "The Prophet outside The Bardo gets a better offer. Write his resignation speech to Cassius."
+    ],
+    "technical": [
+      "Build a 'Relic Authentication' simulator that generates procedurally detailed descriptions of fake beat-generation artifacts, complete with fabricated provenance chains and spectral analysis reports.",
+      "Create a dynamic, neon-noir CSS theme generator for a website based on the novel's aesthetic, using variables for 'syrupy vermilion', 'electric cyan', and 'jellyfish pulse'."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William S. Burroughs (cold, cut-up analysis of power systems)",
+      "Patricia Highsmith (elegant suspense and amoral aesthetics)",
+      "Don DeLillo (theology of consumerism and curated reality)",
+      "Neon Noir Cinematography (as a conceptual legend: the visual language of moral decay in saturated color)"
+    ]
+  },
+  "cover_prompt": "A single, worn leather-bound ledger, its spine cracked and pages swollen with inserted ephemera, floats suspended in a dark, non-space reminiscent of a Beat poet's cluttered sanctum. Telephones with cut cords, wilted flowers, empty whiskey bottles, and vintage stock ticker tape drift in a silent orbit around it, while ghostly, overlapping impressions of frantic handwriting, rubber stamp marks, and faded currency flicker across its open pages. This chaotic still life is rendered in the dense, symbolic collage style of Robert Rauschenberg combined with the gritty, textured realism of a Weegee crime scene photograph, evoking a tangible history of transactions and transgressions. The composition is a stark, centered book cover frame with a dramatic low-angle view, making the ledger a monolithic altar of information. The scene is illuminated by the harsh, clinical glare of a single overhead banker's lamp, casting deep, long shadows and creating a high-contrast interplay of warm amber on the ledger against the cool, infinite black void, punctuated by the sickly green glow of an old rotary telephone's faintly lit dial. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
